@@ -69,9 +69,9 @@ http://ionicframework.com/docs/concepts/structure.html
 # Package.json
 ```
 {
-  "name": "farmer",
+  "name": "cross-platform-template",
   "version": "1.1.1",
-  "description": "farmer: An Ionic project",
+  "description": "cross-platform-template: An Ionic project",
   "dependencies": {
     "@angular/common": "^2.0.0-rc.4",
     "@angular/compiler": "^2.0.0-rc.4",
